@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Rosen Roydev
+🌱 I’m currently learning C# in SoftUni 
+
+🤘I like tо follow my goals!
+🫡 I am very resposible!!
+💪I  never give up!!! 
+
 <!--
 **RosenRoydev/RosenRoydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
