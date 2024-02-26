@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Rosen Roydev
+
 🌱 I’m currently learning C# in SoftUni 
 
 🤘I like tо follow my goals!
